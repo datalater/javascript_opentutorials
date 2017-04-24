@@ -2,11 +2,11 @@ copyright ⓒ JMC 2017
 
 주요 소스: 생활코딩 JavaScript for Web Browser
 
-resume:
+resume: https://opentutorials.org/course/1375/6650
 
 ---
 
-## 8강 BOM : (3) Location 객체
+## 8강 BOM ::: (3) Location 객체
 
 #### Location 객체의 기능
 
@@ -70,12 +70,9 @@ opentutorials.org
 > location.reload();
 ```
 
-
-
-
 ---
 
-## 7강 BOM : (2) 사용자와 커뮤니케이션 하기
+## 7강 BOM ::: (2) 사용자와 커뮤니케이션 하기
 
 #### 사용자와의 커뮤니케이션이란 무엇인가
 
@@ -144,7 +141,7 @@ opentutorials.org
 
 ---
 
-## 6강 BOM: (1) 전역객체 window
+## 6강 BOM ::: (1) 전역객체 window
 
 #### alert() == window.alert()
 
@@ -155,7 +152,7 @@ opentutorials.org
 
 ---
 
-## 5강 Object Model 개념 : window, DOM, BOM, JavaScript Core
+## 5강 Object Model ::: window, DOM, BOM, JavaScript Core
 
 #### 질문
 
